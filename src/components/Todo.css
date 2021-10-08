@@ -1,0 +1,44 @@
+.userUi
+{
+    text-align: center;
+    text-underline-position: below;
+    
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:darkgreen;
+    
+}
+button{
+border: 10px;
+background-color: blue;
+color: azure;
+border-radius: 20px;
+width: 120px;
+margin-top: 30px;
+margin-left: 20px;
+padding: 10px;
+}
+
+input{
+text-decoration: solid;
+background-color:peachpuff;
+color:blue;
+width: 20%;
+padding: 10px;
+font-weight: bold;
+font-size: large;
+}
+
+table.center{
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+td{
+    color: coral;
+    font-weight:bold ;
+    font-size:larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+
+}
